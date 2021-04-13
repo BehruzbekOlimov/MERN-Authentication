@@ -1,0 +1,24 @@
+{
+  "name": "mern-autentification",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "global": "^4.4.0",
+    "http-errors": "~1.6.3",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "morgan": "~1.9.1",
+    "npm": "^7.8.0",
+    "password-validator": "^5.1.1"
+  }
+}
